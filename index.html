@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wanderlust Analytics — Personal Travel Site</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,400&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet Map CSS & Marker Cluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+    <!-- Background Glow Blobs -->
+    <div class="glow-blob glow-1"></div>
+    <div class="glow-blob glow-2"></div>
+    <div class="glow-blob glow-3"></div>
+
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i class="fa-solid fa-compass-drafting logo-icon"></i>
+                <span class="logo-text">Wanderlust</span>
+            </div>
+            <nav class="nav-menu">
+                <a href="#dashboard" class="nav-item active" data-tab="dashboard">
+                    <i class="fa-solid fa-chart-line nav-icon"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a href="#map-section" class="nav-item" data-tab="map">
+                    <i class="fa-solid fa-map-location-dot nav-icon"></i>
+                    <span>Travel Map</span>
+                </a>
+                <a href="#timeline-section" class="nav-item" data-tab="timeline">
+                    <i class="fa-solid fa-timeline nav-icon"></i>
+                    <span>Timeline</span>
+                </a>
+                <a href="#instagram-section" class="nav-item" data-tab="instagram">
+                    <i class="fa-brands fa-instagram nav-icon"></i>
+                    <span>Instagram Queue</span>
+                </a>
+            </nav>
+            <div class="sidebar-footer">
+                <p class="footer-meta">Span: 2015 – 2026</p>
+                <p class="footer-author">Vishweshwar Travel Site</p>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header -->
+            <header class="header">
+                <div class="header-title-wrapper">
+                    <h1 class="header-title">Location Analytics</h1>
+                    <p class="header-subtitle">Interactive archive of places visited and photographic memories</p>
+                </div>
+                <div class="header-controls">
+                    <button id="theme-toggle" class="theme-toggle-btn" title="Toggle Theme">
+                        <i class="fa-solid fa-moon"></i>
+                    </button>
+                    <div class="search-box">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        <input type="text" id="global-search" placeholder="Search cities, countries, or regions...">
+                    </div>
+                </div>
+            </header>
+
+            <!-- TAB: Dashboard -->
+            <section id="dashboard" class="tab-content active-tab">
+                <!-- Metric Cards Grid -->
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <div class="metric-info">
+                            <span class="metric-label">Countries Visited</span>
+                            <h2 class="metric-val" id="metric-countries">0</h2>
+                        </div>
+                        <div class="metric-icon-wrapper bg-indigo">
+                            <i class="fa-solid fa-globe"></i>
+                        </div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-info">
+                            <span class="metric-label">Localities Explored</span>
+                            <h2 class="metric-val" id="metric-cities">0</h2>
+                        </div>
+                        <div class="metric-icon-wrapper bg-emerald">
+                            <i class="fa-solid fa-city"></i>
+                        </div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-info">
+                            <span class="metric-label">GPS Photo Archive</span>
+                            <h2 class="metric-val" id="metric-photos">0</h2>
+                        </div>
+                        <div class="metric-icon-wrapper bg-amber">
+                            <i class="fa-solid fa-image"></i>
+                        </div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-info">
+                            <span class="metric-label">Queue Length</span>
+                            <h2 class="metric-val" id="metric-queue">0</h2>
+                        </div>
+                        <div class="metric-icon-wrapper bg-rose">
+                            <i class="fa-brands fa-instagram"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts & Stats Grid -->
+                <div class="dashboard-grid">
+                    <!-- Top Countries Card -->
+                    <div class="card card-lg flex-col">
+                        <div class="card-header">
+                            <h3 class="card-title"><i class="fa-solid fa-ranking-star icon-primary"></i> Top Visited Countries</h3>
+                            <span class="card-subtitle">Ranked by photographic footprint</span>
+                        </div>
+                        <div class="country-list-wrapper custom-scroll flex-grow" id="top-countries-list">
+                            <!-- Populated by JavaScript -->
+                        </div>
+                    </div>
+
+                    <!-- Chart Card -->
+                    <div class="card card-lg flex-col">
+                        <div class="card-header">
+                            <h3 class="card-title"><i class="fa-solid fa-chart-pie icon-primary"></i> Distribution Analytics</h3>
+                            <span class="card-subtitle">Photo concentration by top regions</span>
+                        </div>
+                        <div class="chart-container flex-grow">
+                            <canvas id="photo-distribution-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="charts-row mt-24">
+                    <div class="card card-lg flex-col" style="height: 350px;">
+                        <div class="card-header">
+                            <h3 class="card-title"><i class="fa-solid fa-chart-line icon-primary"></i> Travel Trends Over Time</h3>
+                            <span class="card-subtitle">Photographic output year-by-year</span>
+                        </div>
+                        <div class="chart-container flex-grow">
+                            <canvas id="travel-trend-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB: Map -->
+            <section id="map-section" class="tab-content">
+                <div class="card map-card flex-col">
+                    <div class="map-header">
+                        <div class="map-header-title">
+                            <h3 class="card-title"><i class="fa-solid fa-map-location-dot icon-primary"></i> Interactive Footprint Map</h3>
+                            <span class="card-subtitle">Explore 944 locations globally using Apple Photos coordinates</span>
+                        </div>
+                        <div class="map-filters">
+                            <select id="map-country-filter">
+                                <option value="all">All Countries</option>
+                                <!-- Populated dynamically -->
+                            </select>
+                        </div>
+                    </div>
+                    <div class="map-viewport-wrapper">
+                        <div id="map"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB: Timeline -->
+            <section id="timeline-section" class="tab-content">
+                <div class="timeline-controls-wrapper card">
+                    <div class="timeline-header">
+                        <h3 class="card-title"><i class="fa-solid fa-timeline icon-primary"></i> Chronological Footprint</h3>
+                        <span class="card-subtitle">Browse travels sorted by date of visit</span>
+                    </div>
+                    <div class="timeline-filters">
+                        <button class="filter-btn active" data-year="all">All Years</button>
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+                
+                <div class="timeline-container" id="timeline-feed">
+                    <!-- Populated by JS -->
+                </div>
+            </section>
+
+            <!-- TAB: Instagram Posting Queue -->
+            <section id="instagram-section" class="tab-content">
+                <div class="instagram-banner card">
+                    <div class="instagram-banner-content">
+                        <div class="instagram-banner-icon"><i class="fa-brands fa-instagram"></i></div>
+                        <div>
+                            <h2>Prepared Instagram Posting Queue</h2>
+                            <p>Upcoming locations queued for publishing. Captions generated by AI, sorted by Apple aesthetic score.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="ready-posts-grid" id="ready-posts-gallery">
+                    <!-- Populated dynamically with the 9 posts from public/Instagram_Ready_Posts -->
+                </div>
+                
+                <!-- Full posting queue table -->
+                <div class="card mt-24">
+                    <div class="card-header">
+                        <h3 class="card-title"><i class="fa-solid fa-list-ol icon-primary"></i> Full Auto-Generated Queue</h3>
+                        <span class="card-subtitle">Sorted by Apple Aesthetic Score</span>
+                    </div>
+                    <div class="table-responsive">
+                        <table class="data-table" id="queue-table">
+                            <thead>
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Location</th>
+                                    <th>Region</th>
+                                    <th>Country</th>
+                                    <th>Visit Date</th>
+                                    <th>Aesthetic Score</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Populated dynamically -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Modal for Instagram post details -->
+    <div class="modal" id="post-modal">
+        <div class="modal-backdrop"></div>
+        <div class="modal-content-wrapper">
+            <button class="modal-close-btn" id="modal-close"><i class="fa-solid fa-xmark"></i></button>
+            <div class="modal-body-grid">
+                <div class="modal-image-pane">
+                    <img id="modal-post-img" src="" alt="Travel Photo">
+                </div>
+                <div class="modal-info-pane">
+                    <h2 id="modal-post-title">Location Name</h2>
+                    <p class="modal-post-meta" id="modal-post-meta">Rank #1 · Score: 0.8</p>
+                    
+                    <div class="caption-container">
+                        <div class="caption-header">
+                            <h3><i class="fa-brands fa-instagram icon-primary"></i> Caption & Hashtags</h3>
+                            <button class="copy-btn" id="modal-copy-btn"><i class="fa-regular fa-copy"></i> Copy Caption</button>
+                        </div>
+                        <div class="caption-text-wrapper custom-scroll">
+                            <pre id="modal-post-caption" class="caption-text">Caption goes here...</pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chart.js & Leaflet JS & Marker Cluster JS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    
+    <!-- Custom Application Logic -->
+    <script src="app.js"></script>
+</body>
+</html>

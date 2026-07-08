@@ -1,0 +1,945 @@
+Country,Region,City,Photos,Pct_of_GPS,First,Last
+India,Telangana,Kukatpalli,37404,34.60%,2016-01-21,2026-06-10
+India,Telangana,Hyderabad,1816,1.68%,2016-01-20,2026-05-19
+India,Andhra Pradesh,Rajahmundry,1792,1.66%,2016-01-15,2026-04-17
+Maldives,Maale,Male,1623,1.50%,2021-03-15,2024-05-02
+India,Telangana,Balapur,1134,1.05%,2016-09-26,2026-02-20
+United Arab Emirates,Dubai,Dubai,1090,1.01%,2022-03-02,2024-11-29
+Austria,Vienna,Vienna,1041,0.96%,2019-07-24,2019-07-27
+India,Telangana,Serilingampalle,1012,0.94%,2016-11-29,2026-06-19
+India,Andhra Pradesh,Tirupati,918,0.85%,2016-12-31,2026-04-11
+India,Andhra Pradesh,Proddatur,899,0.83%,2016-01-14,2026-06-08
+Finland,Uusimaa,Helsinki,878,0.81%,2019-07-02,2019-07-07
+India,Andhra Pradesh,Tirumala,856,0.79%,2017-03-28,2026-04-27
+China,Tibet Autonomous Region,Gangsha,842,0.78%,2025-07-16,2025-07-19
+Qatar,Baladiyat ad Dawhah,Doha,736,0.68%,2019-07-02,2024-04-13
+India,Tamil Nadu,Mamallapuram,721,0.67%,2020-12-18,2026-04-12
+China,Tibet Autonomous Region,Burang,711,0.66%,2025-05-07,2025-07-20
+India,Nagaland,Kohima,687,0.64%,2025-03-21,2025-03-23
+India,Sikkim,Mangan,648,0.60%,2024-06-11,2024-06-18
+India,West Bengal,Bara Bazar,615,0.57%,2025-04-18,2025-12-30
+Thailand,Chon Buri,Phatthaya,609,0.56%,2016-12-06,2025-10-02
+India,Kashmir,Pahalgam,582,0.54%,2024-05-06,2025-07-29
+India,NCT,New Delhi,556,0.51%,2015-11-25,2026-03-24
+Bahamas,New Providence,Nassau,512,0.47%,2024-10-29,2024-11-01
+South Africa,Mpumalanga,Komatipoort,485,0.45%,2024-05-22,2024-05-24
+South Africa,Western Cape,Oudtshoorn,474,0.44%,2024-05-26,2024-05-26
+India,Assam,Bokakhat,466,0.43%,2025-03-19,2025-03-21
+India,Himachal Pradesh,Manali,461,0.43%,2024-05-16,2024-05-18
+India,Arunachal Pradesh,Tawang,459,0.42%,2025-03-26,2025-03-28
+Colombia,Antioquia,Medellin,449,0.42%,2024-09-30,2024-10-02
+Vietnam,Quang Ninh,Thanh Pho Ha Long,446,0.41%,2022-12-12,2022-12-12
+Oman,Muhafazat Masqat,Muscat,430,0.40%,2024-04-08,2024-04-09
+Vatican City,,Vatican City,424,0.39%,2025-05-15,2025-05-16
+India,Karnataka,Bangalore,422,0.39%,2019-04-18,2026-03-13
+India,Karnataka,Mysore,416,0.38%,2023-07-29,2023-08-01
+Brazil,Rio de Janeiro,Rio de Janeiro,416,0.38%,2024-09-10,2024-09-12
+India,Meghalaya,Shillong,410,0.38%,2025-03-15,2025-03-19
+Estonia,Harju,Tallinn,409,0.38%,2019-07-04,2019-07-04
+Czechia,Praha,Stare Mesto,389,0.36%,2019-07-28,2019-07-30
+Poland,Masovian Voivodeship,Warsaw,370,0.34%,2019-07-21,2019-07-23
+Qatar,Baladiyat ar Rayyan,Ar Rayyan,356,0.33%,2024-04-11,2024-04-12
+India,Bihar,Patna,329,0.30%,2025-04-16,2025-04-16
+Italy,Latium,Rome,323,0.30%,2025-05-15,2025-05-17
+Argentina,Tierra del Fuego,Ushuaia,319,0.30%,2024-09-20,2024-09-22
+Sweden,Stockholm,Stockholm,318,0.29%,2019-07-11,2019-07-13
+Brazil,Amazonas,Manaus,311,0.29%,2024-09-08,2024-09-09
+India,Uttarakhand,Almora,311,0.29%,2025-05-01,2025-05-09
+Belgium,Brussels Capital,Brussels,306,0.28%,2019-08-06,2019-08-10
+Argentina,Santa Cruz,El Calafate,305,0.28%,2024-09-22,2024-09-24
+Colombia,Bogota D.C.,Bogota,300,0.28%,2024-09-28,2024-11-17
+India,Goa,Chicalim,297,0.27%,2019-03-11,2025-12-10
+India,Uttarakhand,Dharchula,296,0.27%,2025-05-06,2025-05-08
+Qatar,Al Wakrah,Al Wakrah,295,0.27%,2019-07-02,2024-04-13
+Vietnam,Ha Noi,Hoan Kiem,291,0.27%,2022-12-10,2022-12-13
+India,Telangana,Secunderabad,287,0.27%,2017-12-03,2026-05-05
+Vietnam,Ho Chi Minh City,Quan Mot,279,0.26%,2022-12-08,2022-12-09
+India,Andaman and Nicobar Islands,Bamboo Flat,279,0.26%,2024-03-15,2024-03-18
+Norway,Oslo,Oslo,275,0.25%,2019-07-07,2019-07-10
+India,Uttarakhand,Bhim Tal,274,0.25%,2024-01-24,2025-05-10
+India,Andaman and Nicobar Islands,Port Blair,270,0.25%,2024-03-14,2024-03-18
+India,Tamil Nadu,Tiruchirappalli,269,0.25%,2023-07-14,2024-03-25
+India,Karnataka,Hampi,269,0.25%,2023-08-08,2023-08-09
+Egypt,Aswan,Aswan,267,0.25%,2024-04-14,2024-04-15
+Georgia,Mtskheta-Mtianeti,Mtskheta,265,0.25%,2024-01-31,2024-02-03
+United Arab Emirates,Abu Dhabi,Abu Dhabi,264,0.24%,2024-02-25,2025-05-15
+Morocco,Marrakech-Tensift-Al Haouz,Marrakesh,264,0.24%,2025-05-25,2025-05-26
+Bhutan,Paro,Paro,261,0.24%,2024-03-04,2024-03-08
+Malaysia,Kuala Lumpur,Kuala Lumpur,258,0.24%,2016-06-05,2025-01-27
+India,Kerala,Cochin,258,0.24%,2023-07-26,2023-07-27
+India,Telangana,Lal Bahadur Nagar,257,0.24%,2016-10-17,2022-12-31
+India,Andhra Pradesh,Akkarampalle,251,0.23%,2016-05-29,2026-04-10
+Portugal,Porto,Porto,249,0.23%,2025-05-27,2025-05-27
+India,Rajasthan,Jaisalmer,248,0.23%,2022-01-11,2022-01-13
+India,Rajasthan,Jodhpur,244,0.23%,2022-01-08,2022-01-14
+Egypt,Muhafazat al Qahirah,Cairo,244,0.23%,2024-04-13,2024-04-17
+India,Andhra Pradesh,Yanam,243,0.22%,2020-10-24,2020-10-24
+India,Andhra Pradesh,Diguvametta,242,0.22%,2020-12-16,2026-05-17
+India,Andhra Pradesh,Yarada,241,0.22%,2016-10-01,2025-06-18
+India,Tamil Nadu,Thanjavur,239,0.22%,2023-07-14,2024-03-25
+Vietnam,Ninh Binh,Thanh Pho Ninh Binh,237,0.22%,2022-12-13,2022-12-13
+Malta,Il-Qala,Qala,234,0.22%,2025-05-23,2025-05-23
+Denmark,Capital Region,Copenhagen,233,0.22%,2019-07-13,2019-07-15
+Nepal,Western Region,Pokhara,232,0.21%,2024-06-05,2024-06-07
+Czechia,Praha,Mala Strana,230,0.21%,2019-07-28,2019-07-30
+Romania,Cluj,Cluj-Napoca,225,0.21%,2025-05-18,2025-05-18
+Oman,Muhafazat Masqat,Bawshar,221,0.20%,2024-04-08,2024-11-30
+Nepal,Central Region,Bharatpur,221,0.20%,2024-06-03,2024-06-05
+Mexico,Mexico City,Cuauhtemoc,221,0.20%,2024-10-21,2024-10-22
+United Arab Emirates,Ash Shariqah,Sharjah,219,0.20%,2022-03-02,2024-11-23
+India,Meghalaya,Cherrapunji,219,0.20%,2025-03-17,2025-03-18
+India,Kashmir,Leh,215,0.20%,2022-03-26,2025-07-27
+Georgia,Kakheti,Sighnaghi,215,0.20%,2024-02-01,2024-02-01
+India,Uttarakhand,Ramnagar,214,0.20%,2024-01-23,2025-05-11
+Palestine,West Bank,Jericho,214,0.20%,2024-04-21,2024-04-21
+South Africa,Western Cape,Cape Town,214,0.20%,2024-05-27,2024-05-29
+Japan,Hiroshima,Hiroshima-shi,213,0.20%,2024-04-01,2024-04-02
+Guatemala,Sacatepequez,Antigua Guatemala,213,0.20%,2024-10-16,2024-10-17
+Portugal,Lisbon,Lisbon,210,0.19%,2025-05-27,2025-05-28
+India,Punjab,Amritsar,209,0.19%,2024-02-10,2024-05-05
+Peru,Cusco,Santa Teresa,209,0.19%,2024-09-17,2024-09-17
+Oman,Ash Sharqiyah,Sur,208,0.19%,2024-04-08,2024-04-08
+El Salvador,San Salvador,San Salvador,206,0.19%,2024-10-18,2024-10-20
+Jordan,Amman,Amman,204,0.19%,2024-04-18,2024-04-22
+Mexico,Quintana Roo,Alfredo V. Bonfil,198,0.18%,2024-10-23,2024-10-25
+Jordan,Ma'an,Petra,196,0.18%,2024-04-19,2024-04-19
+India,Telangana,Bodhan,195,0.18%,2018-04-20,2020-11-21
+China,Tibet Autonomous Region,Xarsingma,192,0.18%,2024-06-11,2024-06-18
+Panama,Panama,Ancon,189,0.17%,2024-10-08,2024-10-14
+India,Madhya Pradesh,Indore,188,0.17%,2023-08-18,2023-08-20
+Turkey,Istanbul,Eminoenue,185,0.17%,2024-11-25,2024-11-25
+Albania,Tirane,Tirana,183,0.17%,2025-05-17,2025-05-17
+Cuba,La Habana,Centro Habana,182,0.17%,2024-10-27,2024-10-29
+Mexico,Mexico City,Polanco,181,0.17%,2024-10-21,2024-10-22
+India,Haryana,Gurgaon,180,0.17%,2019-07-01,2024-07-21
+Argentina,Buenos Aires F.D.,Buenos Aires,180,0.17%,2024-09-18,2024-11-22
+Jordan,Ma'an,Al Quwayrah,178,0.16%,2024-04-19,2024-04-20
+India,Madhya Pradesh,Ujjain,176,0.16%,2023-08-18,2025-06-29
+Brazil,Sao Paulo,Sao Paulo,173,0.16%,2024-09-06,2024-09-07
+Mexico,Mexico City,Mexico City,173,0.16%,2024-10-21,2024-10-21
+India,Andhra Pradesh,Nandyal,171,0.16%,2020-02-28,2020-12-16
+Costa Rica,Alajuela,La Fortuna,168,0.16%,2024-10-04,2024-10-05
+Japan,Osaka,Matsubara,165,0.15%,2024-04-03,2024-04-03
+Costa Rica,Guanacaste,Juntas,165,0.15%,2024-10-05,2024-10-06
+India,Andhra Pradesh,Renigunta,163,0.15%,2017-03-27,2026-01-19
+Poland,Masovian Voivodeship,Wola,163,0.15%,2019-07-21,2019-07-23
+Iceland,South,Selfoss,163,0.15%,2025-05-21,2025-05-21
+India,Uttarakhand,Kalagarh,162,0.15%,2024-01-24,2025-05-11
+Greece,Attica,Athens,159,0.15%,2024-11-27,2024-11-29
+India,Kerala,Thiruvananthapuram,158,0.15%,2023-07-23,2023-07-23
+Norway,Oslo,Sjolyststranda,156,0.14%,2019-07-08,2019-07-09
+India,Gujarat,Ahmedabad,154,0.14%,2025-04-27,2025-04-28
+Argentina,Misiones,Puerto Iguazu,149,0.14%,2024-09-12,2024-09-14
+Mexico,Quintana Roo,Isla Mujeres,149,0.14%,2024-10-23,2024-10-25
+India,Himachal Pradesh,Dharmsala,148,0.14%,2024-02-11,2024-02-16
+Egypt,Alexandria,Alexandria,148,0.14%,2024-04-16,2024-04-17
+Japan,Yamanashi,Fujikawaguchiko,147,0.14%,2024-04-01,2024-04-01
+Nepal,Western Region,Darchula,147,0.14%,2025-05-06,2025-05-08
+India,Assam,Jorhat,146,0.14%,2025-03-24,2025-03-24
+India,Arunachal Pradesh,Bomdila,143,0.13%,2025-03-25,2025-03-29
+Georgia,T'bilisi,Tbilisi,141,0.13%,2024-01-30,2024-02-03
+India,Uttarakhand,Naini Tal,140,0.13%,2024-01-24,2025-05-10
+Georgia,,Gudauri,138,0.13%,2024-02-02,2024-02-02
+India,Sikkim,Gangtok,138,0.13%,2024-06-09,2024-06-19
+India,West Bengal,Gosaba,138,0.13%,2025-04-19,2025-04-20
+Colombia,Bolivar,Cartagena,137,0.13%,2024-11-04,2024-11-06
+Vietnam,Ha Noi,Hanoi,136,0.13%,2022-12-11,2022-12-11
+India,Tamil Nadu,Gudalur,135,0.12%,2023-07-24,2023-07-25
+India,Uttarakhand,Uttarkashi,135,0.12%,2025-06-07,2025-06-10
+Nepal,Central Region,Kathmandu,134,0.12%,2024-06-01,2025-07-11
+India,Andhra Pradesh,Badvel,132,0.12%,2016-10-08,2021-10-19
+India,Mizoram,Sairang,131,0.12%,2025-03-13,2025-03-14
+India,Andhra Pradesh,Kanigiri,129,0.12%,2016-10-07,2016-10-08
+India,West Bengal,Kolkata,129,0.12%,2025-04-17,2025-12-29
+India,Andhra Pradesh,Bapatla,128,0.12%,2026-02-10,2026-04-15
+India,Andhra Pradesh,Srisailam,127,0.12%,2016-01-22,2019-12-30
+Germany,Hamburg,Neustadt,127,0.12%,2019-07-16,2019-07-16
+India,Karnataka,Guledagudda,126,0.12%,2023-08-07,2023-08-07
+South Africa,Western Cape,Mossel Bay,125,0.12%,2024-05-25,2024-05-26
+India,Punjab,Raja Sansi,124,0.11%,2024-02-10,2024-05-05
+Egypt,Al Jizah,Al Jizah,124,0.11%,2024-04-13,2024-04-16
+Dominican Republic,San Juan,Punta Cana,124,0.11%,2024-11-03,2024-11-04
+India,Uttar Pradesh,Varanasi,123,0.11%,2022-11-08,2025-06-28
+Argentina,Cordoba,Cordoba,123,0.11%,2024-11-19,2024-11-22
+India,Andhra Pradesh,Kakinada,122,0.11%,2020-10-23,2020-10-23
+India,Himachal Pradesh,Dalhousie,122,0.11%,2024-02-15,2024-02-15
+Denmark,Capital Region,Christianshavn,121,0.11%,2019-07-13,2019-07-14
+Iceland,South,Hveragerdi,121,0.11%,2025-05-21,2025-05-21
+India,Pondicherry,Puducherry,120,0.11%,2016-12-31,2023-11-28
+Egypt,Luxor,Luxor,120,0.11%,2024-04-14,2024-04-14
+Japan,Tokyo,Urayasu,119,0.11%,2024-03-31,2024-03-31
+Spain,Catalonia,Ciutat Vella,119,0.11%,2025-05-25,2025-05-25
+Bhutan,Thimphu,Thimphu,118,0.11%,2024-03-04,2024-03-06
+India,Karnataka,Badami,114,0.11%,2023-08-06,2023-08-07
+Japan,Tokyo,Tokyo,114,0.11%,2024-03-30,2024-03-31
+India,Andhra Pradesh,Bhimunipatnam,113,0.10%,2016-10-02,2024-02-19
+India,Kashmir,Thang,112,0.10%,2025-07-25,2025-07-28
+Germany,Berlin,Tiergarten Bezirk,111,0.10%,2019-07-20,2019-07-20
+India,Karnataka,Belgaum,111,0.10%,2020-12-14,2023-04-26
+Qatar,Baladiyat Umm Salal,Umm Salal Muhammad,108,0.10%,2024-04-11,2024-04-13
+China,Tibet Autonomous Region,Gangba,107,0.10%,2024-06-12,2024-06-12
+Germany,Lower Saxony,Hannover,105,0.10%,2019-07-17,2019-07-18
+Czechia,Praha,Prague,105,0.10%,2019-07-28,2019-07-30
+India,Tamil Nadu,Padmanabhapuram,105,0.10%,2023-07-22,2023-07-22
+India,Kashmir,Srinagar,105,0.10%,2024-05-05,2025-07-30
+India,Chandigarh,Chandigarh,105,0.10%,2024-05-14,2024-05-14
+India,Telangana,Malkajgiri,104,0.10%,2019-12-08,2026-03-29
+Vietnam,Ninh Binh,Thi Tran Thien Ton,104,0.10%,2022-12-13,2022-12-13
+Costa Rica,Alajuela,Orotina,104,0.10%,2024-10-06,2024-10-06
+Panama,Panama,Paraiso,104,0.10%,2024-10-11,2024-10-11
+India,Telangana,Sriramnagar,103,0.10%,2016-09-19,2025-12-10
+India,Karnataka,Belur,103,0.10%,2023-08-01,2023-08-01
+India,Karnataka,Chikmagalur,100,0.09%,2023-08-03,2023-08-04
+India,Himachal Pradesh,Shimla,100,0.09%,2024-05-15,2024-05-15
+India,Bihar,Bodh Gaya,99,0.09%,2025-04-17,2025-04-17
+India,Karnataka,Shrirangapattana,98,0.09%,2023-07-31,2023-07-31
+Japan,Hiroshima,Miyajima,98,0.09%,2024-04-01,2024-04-02
+Vietnam,Ho Chi Minh City,Quan Ba,96,0.09%,2022-12-07,2022-12-10
+Bhutan,Punakha,Punakha,96,0.09%,2024-03-05,2024-03-05
+India,Madhya Pradesh,Sanawad,95,0.09%,2023-08-20,2025-06-30
+India,Himachal Pradesh,Jutogh,94,0.09%,2024-05-14,2024-05-16
+Iceland,South,Vestmannaeyjar,94,0.09%,2025-05-21,2025-05-21
+Colombia,"Archipielago de San Andres, Providencia y Santa Catalina",San Andres,93,0.09%,2024-11-10,2024-11-13
+Costa Rica,Guanacaste,Tilaran,92,0.09%,2024-10-05,2024-10-05
+Spain,Madrid,City Center,92,0.09%,2025-05-28,2025-05-30
+Maldives,Vaavu Atholhu,Felidhoo,91,0.08%,2024-04-30,2024-05-01
+Peru,Cusco,Cusco,91,0.08%,2024-09-16,2024-09-16
+India,Tamil Nadu,Tirunelveli,90,0.08%,2023-07-21,2023-07-21
+India,Odisha,Konarka,90,0.08%,2025-06-18,2025-06-18
+India,Telangana,Uppal Kalan,90,0.08%,2025-06-26,2025-12-13
+India,Kerala,Munnar,89,0.08%,2023-07-25,2023-07-26
+India,Karnataka,Sringeri,89,0.08%,2023-08-04,2023-08-04
+India,Karnataka,Sandur,88,0.08%,2024-01-06,2026-05-18
+India,Andhra Pradesh,Chirala,87,0.08%,2023-04-15,2026-03-03
+India,Tamil Nadu,Kodaikanal,87,0.08%,2023-07-18,2023-07-18
+Spain,Catalonia,Horta-Guinardo,87,0.08%,2025-05-25,2025-05-25
+Czechia,Praha,Vysehrad,86,0.08%,2019-07-29,2019-07-29
+South Africa,Gauteng,Johannesburg,86,0.08%,2024-05-24,2024-05-24
+Singapore,,Singapore,85,0.08%,2017-02-09,2025-01-21
+India,Tripura,Kailashahar,84,0.08%,2025-03-12,2025-03-12
+India,Uttarakhand,Joshimath,84,0.08%,2025-06-13,2025-06-13
+Bhutan,Thimphu,Lungtenzampa,83,0.08%,2024-03-05,2024-03-06
+Argentina,Buenos Aires,Ezeiza,83,0.08%,2024-09-18,2024-11-23
+Italy,Lombardy,Milano,82,0.08%,2025-05-18,2025-05-31
+Colombia,Cundinamarca,Funza,81,0.07%,2024-09-28,2024-11-13
+India,Maharashtra,Mumbai,80,0.07%,2022-11-10,2025-07-02
+India,Goa,Arambol,80,0.07%,2023-03-19,2023-03-20
+Georgia,,Tsqnet'i,80,0.07%,2024-01-31,2024-02-03
+India,Andhra Pradesh,Banganapalle,79,0.07%,2023-03-17,2023-03-17
+India,Uttarakhand,Rishikesh,79,0.07%,2024-01-25,2025-06-14
+India,Uttar Pradesh,Ayodhya,79,0.07%,2024-08-03,2025-06-28
+Dominican Republic,Nacional,Villa Francisca,79,0.07%,2024-10-26,2024-10-26
+Bhutan,Chhukha,Phuntsholing,78,0.07%,2024-03-03,2024-03-09
+India,Daman and Diu,Diu,78,0.07%,2025-04-26,2025-04-26
+India,Andhra Pradesh,Narasingapuram,77,0.07%,2020-12-28,2023-12-18
+India,Tamil Nadu,Kanchipuram,77,0.07%,2023-08-12,2023-08-12
+Croatia,Zagrebacka,Micevec,77,0.07%,2025-05-23,2025-05-24
+Thailand,Bangkok,Ratchathewi,76,0.07%,2016-12-05,2023-10-04
+Dominican Republic,Nacional,Villa Consuelo,76,0.07%,2024-10-26,2024-10-26
+India,Tamil Nadu,Swamimalai,75,0.07%,2023-07-15,2024-03-25
+India,Karnataka,Madikeri,74,0.07%,2023-08-02,2023-08-02
+Japan,Kyoto,Muko,74,0.07%,2024-04-03,2024-04-03
+Costa Rica,San Jose,San Jose,74,0.07%,2024-10-03,2024-10-04
+India,Karnataka,Shravanabelagola,73,0.07%,2023-08-01,2023-08-01
+Japan,Kyoto,Kamigyo-ku,73,0.07%,2024-04-03,2024-04-03
+China,Tibet Autonomous Region,Jiru,73,0.07%,2024-06-12,2024-06-12
+Bangladesh,Sylhet,Sylhet,73,0.07%,2025-03-18,2025-03-18
+India,Andhra Pradesh,Ramachandrapuram,72,0.07%,2020-10-24,2020-10-24
+Croatia,Grad Zagreb,Zagreb,72,0.07%,2025-05-24,2025-05-24
+Spain,Catalonia,Sants-Montjuic,72,0.07%,2025-05-25,2025-05-25
+India,Tamil Nadu,Injambakkam,72,0.07%,2026-04-12,2026-04-13
+India,Uttarakhand,Rudraprayag,71,0.07%,2025-06-11,2025-06-11
+India,Goa,Panaji,70,0.06%,2019-03-11,2024-01-16
+India,Andhra Pradesh,Jammalamadugu,69,0.06%,2020-12-16,2025-06-23
+Spain,Catalonia,Eixample,69,0.06%,2025-05-25,2025-05-25
+Mexico,Yucatan,Valladolid,66,0.06%,2024-10-24,2024-10-24
+India,Uttar Pradesh,Vrindavan,66,0.06%,2025-06-05,2025-06-06
+India,Kerala,Guruvayur,65,0.06%,2023-07-27,2023-07-27
+India,West Bengal,Chakapara,65,0.06%,2025-04-18,2025-12-28
+India,Kashmir,Kargil,65,0.06%,2025-07-24,2025-07-28
+South Africa,Gauteng,Boksburg,64,0.06%,2024-05-21,2024-05-25
+Costa Rica,Puntarenas,Quepos,64,0.06%,2024-10-06,2024-10-07
+India,Assam,Guwahati,64,0.06%,2025-03-29,2025-03-30
+India,Maharashtra,Trimbak,64,0.06%,2025-04-25,2025-07-01
+India,Karnataka,Koppa,63,0.06%,2023-08-04,2023-08-04
+Peru,Lima,Lima,63,0.06%,2024-09-15,2024-09-15
+Jamaica,Kingston,Kingston,63,0.06%,2024-11-01,2024-11-02
+India,Tamil Nadu,Rameswaram,62,0.06%,2023-07-19,2023-07-20
+India,Tamil Nadu,Chidambaram,61,0.06%,2023-07-16,2023-11-27
+India,Himachal Pradesh,Theog,61,0.06%,2024-05-15,2024-05-15
+India,Telangana,Quthbullapur,60,0.06%,2016-09-18,2025-07-06
+Bhutan,Chhukha,Tsimasham,60,0.06%,2024-03-04,2024-03-08
+India,Haryana,Pinjaur,60,0.06%,2024-05-14,2024-05-14
+Paraguay,Alto Parana,Presidente Franco,59,0.05%,2024-09-13,2024-09-13
+El Salvador,La Libertad,Antiguo Cuscatlan,59,0.05%,2024-10-18,2024-10-20
+Netherlands,North Holland,Amsterdam,58,0.05%,2019-08-05,2019-08-06
+Thailand,Bangkok,Bangkok,57,0.05%,2016-12-09,2016-12-09
+India,Karnataka,Mangalore,57,0.05%,2023-08-05,2023-08-05
+India,Maharashtra,Dharmabad,56,0.05%,2018-04-20,2020-11-21
+Sri Lanka,Western,Galkissa,56,0.05%,2020-03-02,2020-03-02
+India,Andhra Pradesh,Cuddapah,55,0.05%,2019-09-07,2026-04-09
+Malaysia,,Sungai Pelek New Village,54,0.05%,2017-02-06,2024-04-04
+Philippines,Central Visayas,Gabi,54,0.05%,2017-08-02,2017-08-02
+Pakistan,Punjab,Lahore,54,0.05%,2024-02-10,2024-02-10
+India,West Bengal,Dam Dam,53,0.05%,2018-08-29,2025-12-30
+India,Tamil Nadu,Perur,53,0.05%,2023-07-28,2024-03-26
+Mexico,Yucatan,Chichen-Itza,53,0.05%,2024-10-24,2024-10-24
+Cuba,La Habana,Boyeros,53,0.05%,2024-10-27,2024-10-29
+India,Jharkhand,Jasidih,53,0.05%,2025-06-17,2025-06-17
+Switzerland,Zurich,Zuerich (Kreis 1),52,0.05%,2019-08-02,2019-08-03
+India,Uttar Pradesh,Orchha,52,0.05%,2024-07-18,2024-07-18
+India,Tripura,Agartala,51,0.05%,2025-03-10,2025-03-12
+India,Andhra Pradesh,Vetapalem,51,0.05%,2026-02-11,2026-03-02
+India,Andhra Pradesh,Vijayawada,50,0.05%,2020-10-21,2020-10-21
+India,Kerala,Kuttampuzha,49,0.05%,2023-07-26,2023-07-26
+Brazil,Sao Paulo,Guarulhos,49,0.05%,2024-09-06,2024-09-14
+India,Kerala,Kovalam,48,0.04%,2023-07-22,2023-07-23
+South Africa,Mpumalanga,Belfast,48,0.04%,2024-05-22,2024-05-24
+India,Karnataka,Devanhalli,47,0.04%,2019-04-18,2025-05-15
+France,Ile-de-France,Paris,47,0.04%,2019-08-10,2019-08-14
+Colombia,Antioquia,Envigado,47,0.04%,2024-10-02,2024-10-02
+India,West Bengal,Rampur Hat,47,0.04%,2025-04-21,2025-04-21
+India,Tamil Nadu,Auroville,46,0.04%,2017-01-01,2017-01-01
+Costa Rica,Puntarenas,Jaco,46,0.04%,2024-10-06,2024-10-07
+Colombia,Valle del Cauca,Cali,46,0.04%,2024-11-07,2024-11-08
+India,Mizoram,Aizawl,46,0.04%,2025-03-13,2025-03-14
+Philippines,Metro Manila,Makati City,45,0.04%,2017-12-18,2017-12-21
+India,Tamil Nadu,Tiruvannamalai,45,0.04%,2023-07-12,2023-11-28
+India,Himachal Pradesh,Jogindarnagar,45,0.04%,2024-02-13,2024-02-13
+Egypt,Muhafazat al Qalyubiyah,Al Khankah,45,0.04%,2024-04-13,2024-04-18
+India,Kashmir,Banihal,45,0.04%,2024-05-05,2025-07-23
+India,Kashmir,Qazigund,45,0.04%,2024-05-05,2024-05-09
+Iceland,Capital Region,Reykjavik,45,0.04%,2025-05-20,2025-05-21
+Philippines,Central Visayas,Cebu City,44,0.04%,2017-07-31,2017-08-03
+India,Uttarakhand,Kaladhungi,44,0.04%,2024-01-24,2025-05-10
+India,Himachal Pradesh,Palampur,44,0.04%,2024-02-13,2024-02-13
+Bhutan,Punakha,Pajo,44,0.04%,2024-03-05,2024-03-05
+India,Assam,Tezpur,44,0.04%,2025-03-19,2025-03-25
+India,Kashmir,Katra,44,0.04%,2025-06-15,2025-07-30
+Nepal,Mid Western,Nepalgunj,43,0.04%,2025-07-11,2025-07-20
+Nepal,Eastern Region,Bhadrapur,42,0.04%,2024-06-09,2024-06-09
+India,Tamil Nadu,Chetput,41,0.04%,2016-12-29,2021-12-02
+India,Goa,Ponda,41,0.04%,2019-03-11,2019-03-11
+France,Ile-de-France,Neuilly-sur-Seine,41,0.04%,2019-08-10,2019-08-12
+India,Andhra Pradesh,Kamalapuram,41,0.04%,2019-12-28,2023-03-22
+India,Kashmir,Gandarbal,41,0.04%,2024-05-06,2025-07-29
+Nepal,Central Region,Bhaktapur,41,0.04%,2024-06-01,2024-06-07
+Guatemala,Guatemala,Guatemala City,41,0.04%,2024-10-17,2024-10-18
+Nepal,Mid Western,Jumla,41,0.04%,2025-07-13,2025-07-20
+India,Telangana,Mahbubnagar,40,0.04%,2018-12-13,2026-01-25
+India,Andhra Pradesh,Rampachodavaram,40,0.04%,2023-02-19,2023-02-19
+India,Tamil Nadu,Kanniyakumari,40,0.04%,2023-07-22,2023-07-22
+India,Uttarakhand,Haridwar,39,0.04%,2024-01-23,2025-06-14
+South Africa,Western Cape,Plettenberg Bay,39,0.04%,2024-05-25,2024-05-25
+Nepal,Central Region,Patan,39,0.04%,2024-06-01,2025-07-10
+India,Madhya Pradesh,Khajuraho,39,0.04%,2024-07-19,2024-07-20
+India,Andhra Pradesh,Giddalur,38,0.04%,2016-10-07,2019-05-11
+Oman,Ash Sharqiyah,Al Qabil,38,0.04%,2024-04-08,2024-04-08
+Peru,Lima,San Isidro,38,0.04%,2024-09-15,2024-09-16
+Colombia,Bogota D.C.,Barrio San Luis,38,0.04%,2024-09-29,2024-09-30
+Jamaica,Saint Andrew,New Kingston,38,0.04%,2024-11-01,2024-11-02
+India,Uttar Pradesh,Jhusi,38,0.04%,2025-06-27,2025-06-27
+India,Goa,Colva,37,0.03%,2019-03-11,2025-12-09
+Ethiopia,Adis Abeba,Addis Ababa,37,0.03%,2024-05-30,2024-05-30
+Costa Rica,Alajuela,Alajuela,37,0.03%,2024-10-03,2024-10-15
+Turkey,Istanbul,UEskuedar,37,0.03%,2024-11-25,2024-11-25
+India,Telangana,Gudur,36,0.03%,2021-10-19,2025-11-02
+India,Goa,Candolim,36,0.03%,2024-01-16,2024-01-16
+Peru,Callao,Callao,36,0.03%,2024-09-15,2024-09-18
+Argentina,Buenos Aires F.D.,Retiro,36,0.03%,2024-09-24,2024-11-22
+Spain,Madrid,Madrid,36,0.03%,2025-05-29,2025-05-29
+India,NCT,Karol Bagh,35,0.03%,2019-02-28,2026-03-23
+Vietnam,Ho Chi Minh City,Quan Binh Thanh,35,0.03%,2022-12-07,2022-12-08
+India,Tamil Nadu,Keelakarai,35,0.03%,2023-07-20,2023-07-20
+Greece,Attica,Spata,35,0.03%,2024-11-27,2024-11-29
+India,Maharashtra,Malvan,35,0.03%,2025-08-04,2025-08-06
+Switzerland,Zurich,Zuerich (Kreis 1) / Lindenhof,34,0.03%,2019-07-31,2019-08-03
+India,Tamil Nadu,Irugur,34,0.03%,2024-03-26,2024-03-27
+India,Tamil Nadu,Mettuppalaiyam,33,0.03%,2023-07-12,2023-07-13
+India,Uttarakhand,Bhowali,33,0.03%,2024-01-24,2025-05-05
+India,Himachal Pradesh,Dera Gopipur,33,0.03%,2024-02-14,2024-02-14
+Colombia,Atlantico,Barranquilla,33,0.03%,2024-11-09,2024-11-10
+India,West Bengal,Bolpur,33,0.03%,2025-04-21,2025-04-21
+Norway,Akershus,Nesoddtangen,32,0.03%,2019-07-08,2019-07-08
+Iceland,Southern Peninsula,Reykjanesbaer,32,0.03%,2025-05-20,2025-05-22
+India,Tamil Nadu,Vellore,31,0.03%,2023-07-11,2023-07-11
+India,Tamil Nadu,Kumbakonam,31,0.03%,2023-07-15,2023-07-15
+India,Tamil Nadu,Nagappattinam,31,0.03%,2023-07-19,2023-07-19
+India,Tamil Nadu,Tiruchchendur,31,0.03%,2023-07-21,2023-07-21
+India,Karnataka,Siddapur,31,0.03%,2023-08-06,2023-08-06
+India,Telangana,Bhongir,31,0.03%,2023-08-26,2025-11-02
+Malta,Saint Julian,San Giljan,31,0.03%,2025-05-22,2025-05-23
+India,Telangana,Farrukhnagar,30,0.03%,2021-07-25,2026-01-25
+India,Goa,Varca,30,0.03%,2022-04-03,2023-01-18
+Japan,Osaka,Kaizuka,30,0.03%,2024-04-03,2024-04-04
+Iraq,Mayorality of Baghdad,Al Mahmudiyah,30,0.03%,2024-11-25,2024-11-25
+Albania,Tirane,Preze,30,0.03%,2025-05-17,2025-05-17
+India,Telangana,Suriapet,29,0.03%,2020-10-21,2020-10-21
+India,Uttar Pradesh,Lucknow,29,0.03%,2024-08-03,2025-09-29
+Colombia,Antioquia,Itagui,29,0.03%,2024-10-01,2024-10-02
+India,Gujarat,Surat,29,0.03%,2025-04-26,2025-04-26
+India,Uttarakhand,Pithoragarh,29,0.03%,2025-05-06,2025-05-09
+Germany,Hamburg,Altona,28,0.03%,2019-07-16,2019-07-16
+Colombia,Magdalena,Santa Marta,28,0.03%,2024-11-14,2024-11-16
+India,Goa,Colovale,27,0.02%,2024-01-14,2025-12-10
+Georgia,,Zahesi,27,0.02%,2024-01-31,2024-02-03
+Oman,Muhafazat Masqat,As Sib al Jadidah,27,0.02%,2024-04-08,2024-04-11
+India,Maharashtra,Neral,27,0.02%,2025-07-01,2025-07-01
+Thailand,Bangkok,Lat Krabang,26,0.02%,2016-12-04,2023-10-01
+India,Tamil Nadu,Pallavaram,26,0.02%,2020-03-04,2025-01-20
+India,Tamil Nadu,Sirkazhi,26,0.02%,2023-07-16,2023-07-16
+Panama,Panama,Tocumen,26,0.02%,2024-10-08,2024-10-27
+Mexico,Yucatan,Dzitnup,26,0.02%,2024-10-24,2024-10-24
+Jamaica,Saint Catherine,Spanish Town,26,0.02%,2024-11-01,2024-11-01
+Finland,Uusimaa,Koukkuniemi,25,0.02%,2019-07-02,2019-07-04
+India,Tamil Nadu,Mandapam,25,0.02%,2023-07-20,2023-07-20
+India,Kerala,Alleppey,25,0.02%,2023-07-24,2023-07-24
+Georgia,Kakheti,Sagarejo,25,0.02%,2024-02-01,2024-02-01
+Jordan,Ma'an,At Tayyibah,25,0.02%,2024-04-19,2024-04-19
+Nepal,Central Region,Ramechhap,25,0.02%,2024-06-09,2024-06-09
+India,Gujarat,Dwarka,25,0.02%,2025-04-27,2025-04-27
+India,Uttar Pradesh,Mathura,25,0.02%,2025-06-05,2025-06-05
+India,Odisha,Puri,24,0.02%,2022-02-19,2022-02-20
+Vietnam,Quang Ninh,Troi,24,0.02%,2022-12-12,2022-12-12
+Qatar,Al Wakrah,Al Wukayr,24,0.02%,2024-04-11,2024-04-11
+Panama,Panama,Panama,24,0.02%,2024-10-08,2024-10-14
+El Salvador,La Union,Pasaquina,24,0.02%,2024-10-18,2024-10-19
+India,NCT,Delhi,23,0.02%,2015-11-25,2025-06-16
+Vietnam,Ho Chi Minh City,Ho Chi Minh City,23,0.02%,2022-12-07,2022-12-10
+Bhutan,Ha,Ha,23,0.02%,2024-03-08,2024-03-08
+Japan,Chiba,Hasaki,23,0.02%,2024-03-29,2024-03-29
+Japan,Osaka,Sakai,23,0.02%,2024-04-03,2024-04-03
+Cuba,La Habana,La Habana Vieja,23,0.02%,2024-10-27,2024-10-29
+India,Gujarat,Okha,23,0.02%,2025-04-27,2025-04-27
+Germany,Berlin,Moabit,22,0.02%,2019-07-19,2019-07-21
+India,Telangana,Narsingi,22,0.02%,2020-11-21,2020-11-21
+India,Uttar Pradesh,Fatehpur Sikri,22,0.02%,2022-03-24,2022-03-24
+Vietnam,Ho Chi Minh City,Quan Phu Nhuan,22,0.02%,2022-12-07,2022-12-10
+India,Karnataka,Udipi,22,0.02%,2023-08-05,2023-08-05
+Costa Rica,Alajuela,San Ramon,22,0.02%,2024-10-04,2024-10-04
+Malta,Tas-Sliema,Sliema,22,0.02%,2025-05-23,2025-05-23
+India,Uttar Pradesh,Noida,21,0.02%,2015-11-29,2026-03-23
+India,Karnataka,Gokarna,21,0.02%,2023-08-06,2023-08-06
+Japan,Ibaraki,Kashima-shi,21,0.02%,2024-03-29,2024-03-29
+Jordan,Amman,Al Jizah,21,0.02%,2024-04-18,2024-04-22
+Cuba,Camaguey,Esmeralda,21,0.02%,2024-11-01,2024-11-01
+India,Tripura,Sonamura,21,0.02%,2025-03-11,2025-03-11
+India,Assam,Karimganj,21,0.02%,2025-03-15,2025-03-15
+Italy,Lombardy,Olgiate Olona,21,0.02%,2025-05-22,2025-05-22
+India,Odisha,Bhubaneshwar,21,0.02%,2025-06-18,2025-06-18
+Thailand,Bangkok,Din Daeng,20,0.02%,2016-12-08,2022-10-19
+Indonesia,Bali,Pecatu,20,0.02%,2017-02-08,2017-02-08
+Turkey,Yalova,Cinarcik,20,0.02%,2024-11-25,2024-11-25
+Turkey,Istanbul,Pendik,20,0.02%,2024-11-25,2024-11-25
+Turkey,Istanbul,Atasehir,20,0.02%,2024-11-25,2024-11-25
+Malaysia,Penang,George Town,20,0.02%,2025-01-25,2025-01-25
+India,Mizoram,Kolasib,20,0.02%,2025-03-13,2025-03-14
+Finland,Uusimaa,Vantaa,19,0.02%,2019-07-02,2019-07-07
+Germany,Lower Saxony,Laatzen,19,0.02%,2019-07-17,2019-07-18
+Poland,Masovian Voivodeship,Srodmiescie,19,0.02%,2019-07-21,2019-07-24
+India,Telangana,Alampur,19,0.02%,2023-10-28,2026-02-24
+Georgia,,Zhinvali,19,0.02%,2024-02-02,2024-02-02
+Japan,Osaka,Osaka-shi,19,0.02%,2024-04-02,2024-04-03
+Croatia,Grad Zagreb,Zagreb - Centar,19,0.02%,2025-05-24,2025-05-24
+Germany,Berlin,Bezirk Kreuzberg,18,0.02%,2019-07-20,2019-07-20
+Switzerland,Zurich,Zuerich (Kreis 1) / Rathaus,18,0.02%,2019-07-31,2019-08-03
+India,Karnataka,Karkal,18,0.02%,2023-08-04,2023-08-04
+India,Uttarakhand,Doiwala,18,0.02%,2024-01-23,2024-01-26
+India,Himachal Pradesh,Chowari,18,0.02%,2024-02-14,2024-02-14
+Japan,Ibaraki,Inashiki,18,0.02%,2024-03-29,2024-03-29
+India,Punjab,Basi,18,0.02%,2024-05-13,2024-05-19
+South Africa,Mpumalanga,Witbank,18,0.02%,2024-05-22,2024-05-22
+India,Karnataka,Yelahanka,17,0.02%,2019-04-19,2019-04-19
+Austria,Lower Austria,Fischamend Dorf,17,0.02%,2019-07-24,2019-07-24
+India,Karnataka,Murudeshwara,17,0.02%,2023-08-05,2023-08-05
+India,Goa,Jua,17,0.02%,2024-01-16,2024-01-16
+United Arab Emirates,Ash Shariqah,Adh Dhayd,17,0.02%,2024-02-26,2024-02-26
+Japan,Chiba,Funabashi,17,0.02%,2024-03-30,2024-03-31
+Colombia,Antioquia,Rionegro,17,0.02%,2024-09-30,2024-10-02
+Cuba,Villa Clara,Corralillo,17,0.02%,2024-10-29,2024-10-29
+India,Assam,Raha,17,0.02%,2025-03-19,2025-03-19
+India,Uttarakhand,Barkot,17,0.02%,2025-06-07,2025-06-09
+India,Kashmir,Jammu,17,0.02%,2025-07-23,2025-07-23
+Thailand,Bangkok,Pom Prap Sattru Phai,16,0.01%,2016-12-05,2016-12-05
+Switzerland,Schaffhausen,Neuhausen,16,0.01%,2019-07-31,2019-07-31
+India,Andhra Pradesh,Nagireddipalli,16,0.01%,2020-12-15,2020-12-15
+India,Karnataka,Sulya,16,0.01%,2023-08-02,2023-08-02
+India,Goa,Morjim,16,0.01%,2024-01-15,2024-01-15
+India,Haryana,Sonipat,16,0.01%,2024-05-13,2024-05-13
+South Africa,Gauteng,Modderfontein,16,0.01%,2024-05-21,2024-05-30
+Costa Rica,Puntarenas,Parrita,16,0.01%,2024-10-06,2024-10-06
+Dominican Republic,La Altagracia,San Rafael del Yuma,16,0.01%,2024-11-04,2024-11-04
+India,Tripura,Udaipur,16,0.01%,2025-03-11,2025-03-11
+Denmark,Zealand,Rodbyhavn,15,0.01%,2019-07-15,2019-07-15
+France,Ile-de-France,Saint-Ouen,15,0.01%,2019-08-11,2019-08-12
+India,Uttar Pradesh,Agra,15,0.01%,2022-03-24,2022-03-24
+India,Kerala,Mavelikara,15,0.01%,2023-07-24,2023-07-24
+India,Karnataka,Suntikoppa,15,0.01%,2023-08-02,2023-08-02
+India,Goa,Vagator,15,0.01%,2024-01-15,2024-01-15
+Guatemala,Guatemala,Santa Catarina Pinula,15,0.01%,2024-10-16,2024-10-20
+Dominican Republic,Santo Domingo,Boca Chica,15,0.01%,2024-10-25,2024-10-26
+Jamaica,Kingston,Port Royal,15,0.01%,2024-11-01,2024-11-03
+Turkey,Antalya,Antalya,15,0.01%,2024-11-25,2024-11-26
+India,Assam,Lala,15,0.01%,2025-03-13,2025-03-14
+India,Gujarat,Delvada,15,0.01%,2025-04-26,2025-04-26
+Spain,Catalonia,Girona,15,0.01%,2025-05-24,2025-05-25
+India,Uttar Pradesh,Greater Noida,14,0.01%,2015-11-27,2015-11-30
+India,Goa,Calangute,14,0.01%,2019-03-09,2019-03-09
+Sri Lanka,North Western,Kuliyapitiya,14,0.01%,2023-10-01,2023-10-01
+Guatemala,Jutiapa,Comapa,14,0.01%,2024-10-18,2024-10-20
+Mexico,Mexico City,Benito Juarez,14,0.01%,2024-10-21,2024-10-22
+Malaysia,Penang,Tanjung Tokong,14,0.01%,2025-01-25,2025-01-25
+India,Assam,Silchar,14,0.01%,2025-03-12,2025-03-15
+India,Uttarakhand,Lohaghat,14,0.01%,2025-05-06,2025-05-06
+Indonesia,Bali,Kuta,13,0.01%,2017-02-06,2017-02-07
+Germany,Schleswig-Holstein,Heiligenhafen,13,0.01%,2019-07-15,2019-07-15
+Poland,Masovian Voivodeship,Wlochy,13,0.01%,2019-07-24,2019-07-24
+India,Goa,Sancoale,13,0.01%,2023-01-18,2025-12-09
+India,Karnataka,Munirabad,13,0.01%,2023-08-07,2023-08-07
+Sri Lanka,Western,Katunayaka,13,0.01%,2023-10-01,2023-10-01
+India,Andhra Pradesh,Venkatagiri,13,0.01%,2023-12-18,2023-12-18
+Japan,Aichi,Nagoya-shi,13,0.01%,2024-04-01,2024-04-01
+Japan,Kyoto,Kyoto,13,0.01%,2024-04-03,2024-04-03
+Nepal,Eastern Region,Namche Bazar,13,0.01%,2024-06-08,2024-06-08
+India,Madhya Pradesh,Kareli,13,0.01%,2024-08-03,2024-08-03
+Peru,Cusco,Ollantaytambo,13,0.01%,2024-09-17,2024-09-17
+Argentina,Tierra del Fuego,Rio Grande,13,0.01%,2024-09-20,2024-09-20
+Turkey,Istanbul,Durusu,13,0.01%,2024-11-27,2024-11-27
+Norway,Akershus,Teigebyen,12,0.01%,2019-07-07,2019-07-07
+Vietnam,Ha Noi,Soc Son,12,0.01%,2022-12-10,2022-12-13
+Jordan,Balqa,Al Karamah,12,0.01%,2024-04-21,2024-04-21
+India,Himachal Pradesh,Pandoh,12,0.01%,2024-05-19,2024-05-19
+South Africa,Western Cape,George,12,0.01%,2024-05-25,2024-05-25
+India,Uttar Pradesh,Faizabad,12,0.01%,2024-08-03,2024-08-03
+Malta,Il-Gudja,Gudja,12,0.01%,2025-05-22,2025-05-23
+Spain,Madrid,Barajas de Madrid,12,0.01%,2025-05-28,2025-05-30
+India,Telangana,Singapur,11,0.01%,2016-09-16,2023-11-30
+Finland,Varsinais-Suomi,Sauvo,11,0.01%,2019-07-07,2019-07-07
+Germany,Schleswig-Holstein,Fehmarn,11,0.01%,2019-07-15,2019-07-15
+India,Tamil Nadu,Chennai,11,0.01%,2020-12-18,2020-12-18
+India,Tamil Nadu,Madurai,11,0.01%,2023-07-17,2023-07-17
+India,Kerala,Varkala,11,0.01%,2023-07-23,2023-07-23
+India,Uttarakhand,Bazpur,11,0.01%,2024-01-25,2024-01-25
+India,Himachal Pradesh,Kangra,11,0.01%,2024-02-14,2024-02-14
+India,Punjab,Mohali,11,0.01%,2024-05-19,2024-05-20
+Nepal,Eastern Region,Lahan,11,0.01%,2024-06-09,2024-06-09
+Costa Rica,Alajuela,Pocosol,11,0.01%,2024-10-04,2024-10-04
+Costa Rica,Limon,Sixaola,11,0.01%,2024-10-08,2024-10-08
+Cuba,Mayabeque,Jaruco,11,0.01%,2024-10-29,2024-10-29
+Bahamas,North Andros,San Andros,11,0.01%,2024-10-29,2024-10-29
+Italy,Lombardy,Orio al Serio,11,0.01%,2025-05-17,2025-05-31
+Norway,Akershus,Fagerstrand,10,0.01%,2019-07-08,2019-07-08
+India,Karnataka,Alnavar,10,0.01%,2023-03-21,2023-04-25
+India,Kerala,Erattupetta,10,0.01%,2023-07-24,2023-07-24
+India,Karnataka,Puttur,10,0.01%,2023-08-02,2023-08-02
+India,Himachal Pradesh,Jawala Mukhi,10,0.01%,2024-02-14,2024-02-14
+India,Himachal Pradesh,Kotla,10,0.01%,2024-02-14,2024-02-14
+Jordan,Amman,Umm as Summaq,10,0.01%,2024-04-20,2024-04-21
+India,Kashmir,Awantipur,10,0.01%,2024-05-07,2024-05-07
+Peru,Lima,Surco,10,0.01%,2024-09-15,2024-09-15
+Bolivia,Cochabamba,Arani,10,0.01%,2024-09-27,2024-09-27
+Jamaica,Saint Ann,Ocho Rios,10,0.01%,2024-11-01,2024-11-01
+Jamaica,Saint Andrew,Mona Heights,10,0.01%,2024-11-02,2024-11-02
+Colombia,Choco,Nuqui,10,0.01%,2024-11-06,2024-11-06
+India,Assam,Udalguri,10,0.01%,2025-03-29,2025-03-29
+India,Gujarat,Veraval,10,0.01%,2025-04-26,2025-04-26
+Albania,Durres,Nikel,10,0.01%,2025-05-17,2025-05-17
+Spain,Catalonia,El Prat de Llobregat,10,0.01%,2025-05-25,2025-05-25
+Portugal,Lisbon,Moscavide,10,0.01%,2025-05-28,2025-05-28
+India,Uttar Pradesh,Allahabad,10,0.01%,2025-06-27,2025-06-27
+India,Telangana,Sathupalli,9,0.01%,2016-01-30,2016-01-30
+Indonesia,Bali,Kelanabian,9,0.01%,2017-02-06,2017-02-08
+Estonia,Harju,Rummu,9,0.01%,2019-07-04,2019-07-04
+Germany,Berlin,Wedding Bezirk,9,0.01%,2019-07-20,2019-07-20
+France,Ile-de-France,Ivry-sur-Seine,9,0.01%,2019-08-10,2019-08-10
+Sri Lanka,Western,Colombo,9,0.01%,2020-02-29,2020-03-04
+India,Karnataka,Ankola,9,0.01%,2023-03-19,2023-03-19
+India,Tamil Nadu,Namagiripettai,9,0.01%,2023-07-12,2023-07-12
+Georgia,Kakheti,Gurjaani,9,0.01%,2024-02-01,2024-02-01
+South Africa,Mpumalanga,Delmas,9,0.01%,2024-05-22,2024-05-22
+South Africa,Mpumalanga,Middelburg,9,0.01%,2024-05-22,2024-05-24
+China,Tibet Autonomous Region,Camgyai,9,0.01%,2024-06-08,2024-06-08
+Panama,Bocas del Toro,Bastimentos,9,0.01%,2024-10-08,2024-10-08
+Mexico,Yucatan,Piste,9,0.01%,2024-10-24,2024-10-24
+Jamaica,Saint Catherine,Point Hill,9,0.01%,2024-11-01,2024-11-01
+Colombia,Atlantico,Piojo,9,0.01%,2024-11-04,2024-11-04
+Colombia,Cordoba,San Carlos,9,0.01%,2024-11-06,2024-11-06
+Colombia,Antioquia,Sonson,9,0.01%,2024-11-13,2024-11-13
+India,Assam,Dispur,9,0.01%,2025-03-29,2025-03-30
+India,West Bengal,Nalhati,9,0.01%,2025-04-21,2025-04-21
+Iceland,Capital Region,Kopavogur,9,0.01%,2025-05-20,2025-05-22
+Malta,Il-Furjana,Floriana,9,0.01%,2025-05-23,2025-05-23
+India,Telangana,Gopalur,9,0.01%,2026-01-25,2026-02-26
+Norway,Akershus,Frogner,8,0.01%,2019-07-07,2019-07-07
+Germany,Hamburg,St. Georg,8,0.01%,2019-07-15,2019-07-17
+France,Ile-de-France,Vanves,8,0.01%,2019-08-10,2019-08-10
+India,Andhra Pradesh,Erraguntla,8,0.01%,2020-12-15,2025-06-23
+India,Andhra Pradesh,Chinnachowk,8,0.01%,2023-03-29,2026-04-09
+India,Karnataka,Somvarpet,8,0.01%,2023-08-02,2023-08-02
+Jordan,Karak,Karak City,8,0.01%,2024-04-19,2024-04-19
+Panama,Bocas del Toro,Isla Bastimentos,8,0.01%,2024-10-08,2024-10-08
+Colombia,Cordoba,Monteria,8,0.01%,2024-11-06,2024-11-07
+Turkey,Istanbul,Icmeler,8,0.01%,2024-11-25,2024-11-25
+India,Assam,North Guwahati,8,0.01%,2025-03-29,2025-03-30
+India,West Bengal,Bali,8,0.01%,2025-04-18,2025-04-18
+India,Maharashtra,Deolali,8,0.01%,2025-04-25,2025-04-25
+Italy,Latium,Ciampino,8,0.01%,2025-05-17,2025-05-17
+Romania,Cluj,Sannicoara,8,0.01%,2025-05-18,2025-05-18
+India,Andhra Pradesh,Vepagunta,7,0.01%,2016-10-01,2024-02-20
+Norway,Akershus,Jessheim,7,0.01%,2019-07-07,2019-07-07
+Germany,Berlin,Hansaviertel,7,0.01%,2019-07-20,2019-07-20
+Poland,Masovian Voivodeship,Ochota,7,0.01%,2019-07-21,2019-07-22
+Switzerland,Zurich,Glattbrugg / Rohr/Platten-Balsberg,7,0.01%,2019-08-03,2019-08-03
+Thailand,Samut Prakan,Samut Prakan,7,0.01%,2022-05-26,2022-05-26
+India,Andhra Pradesh,Pakala,7,0.01%,2023-07-10,2023-07-10
+India,Tamil Nadu,Thiruthani,7,0.01%,2023-08-12,2023-08-12
+Georgia,Mtskheta-Mtianeti,P'asanauri,7,0.01%,2024-02-02,2024-02-02
+India,Punjab,Bakloh,7,0.01%,2024-02-14,2024-02-14
+India,West Bengal,Baghdogra,7,0.01%,2024-03-03,2024-06-20
+South Africa,Western Cape,Riversdale,7,0.01%,2024-05-27,2024-05-27
+India,West Bengal,Naksalbari,7,0.01%,2024-06-09,2024-06-09
+Brazil,Parana,Foz do Iguacu,7,0.01%,2024-09-12,2024-09-14
+Mexico,Quintana Roo,Cancun,7,0.01%,2024-10-23,2024-10-25
+Turkey,Ankara,Urus,7,0.01%,2024-11-25,2024-11-25
+India,Assam,Barpathar,7,0.01%,2025-03-21,2025-03-23
+India,Maharashtra,Shirdi,7,0.01%,2025-04-25,2025-04-25
+Iceland,Southern Peninsula,Vogar,7,0.01%,2025-05-20,2025-05-22
+India,Jharkhand,Madhupur,7,0.01%,2025-06-17,2025-06-17
+Thailand,Samut Prakan,Bang Bo,6,0.01%,2018-07-29,2018-07-29
+Germany,Berlin,Charlottenburg Bezirk,6,0.01%,2019-07-19,2019-07-20
+India,Telangana,Gadwal,6,0.01%,2019-08-25,2026-01-25
+India,Telangana,Gaddi Annaram,6,0.01%,2019-12-05,2025-06-26
+Thailand,Bangkok,Phra Nakhon,6,0.01%,2022-10-19,2022-10-20
+Malaysia,Negeri Sembilan,Kampung Baharu Nilai,6,0.01%,2022-12-07,2022-12-07
+India,Karnataka,Hubli,6,0.01%,2023-03-29,2023-03-29
+India,Himachal Pradesh,Chuari Khas,6,0.01%,2024-02-14,2024-02-14
+Malaysia,Selangor,Kampong Baharu Balakong,6,0.01%,2024-03-29,2024-03-29
+India,Kashmir,Pulwama,6,0.01%,2024-05-05,2024-05-05
+Paraguay,Alto Parana,Ciudad del Este,6,0.01%,2024-09-13,2024-09-13
+Peru,Cusco,Saylla,6,0.01%,2024-09-16,2024-09-16
+Costa Rica,Alajuela,Quesada,6,0.01%,2024-10-04,2024-10-04
+Cuba,Camaguey,Nuevitas,6,0.01%,2024-11-01,2024-11-01
+Colombia,Bolivar,Clemencia,6,0.01%,2024-11-04,2024-11-04
+India,Bihar,Gaya,6,0.01%,2025-04-16,2025-06-17
+India,Uttarakhand,Kichha,6,0.01%,2025-04-30,2025-05-11
+Italy,Lombardy,Vizzola Ticino,6,0.01%,2025-05-22,2025-05-22
+India,Uttarakhand,Pipalkoti,6,0.01%,2025-06-13,2025-06-14
+India,Madhya Pradesh,Khandwa,6,0.01%,2025-06-30,2025-06-30
+Nepal,Mid Western,Dailekh,6,0.01%,2025-07-13,2025-07-20
+India,Andhra Pradesh,Narasapur,6,0.01%,2026-02-12,2026-02-12
+Poland,Masovian Voivodeship,Mokotow,5,0.00%,2019-07-22,2019-07-22
+Belgium,Flanders,Antwerpen,5,0.00%,2019-08-06,2019-08-06
+Vietnam,Ha Noi,Hai BaTrung,5,0.00%,2022-12-13,2022-12-13
+India,Tamil Nadu,Adirampattinam,5,0.00%,2023-07-19,2023-07-19
+India,Tamil Nadu,Periyapattinam,5,0.00%,2023-07-20,2023-07-20
+India,Tamil Nadu,Kombai,5,0.00%,2023-07-25,2023-07-25
+India,Karnataka,Melukote,5,0.00%,2023-08-01,2023-08-01
+India,Karnataka,Ullal,5,0.00%,2023-08-05,2023-08-05
+India,Karnataka,Gangolli,5,0.00%,2023-08-05,2023-08-05
+India,Maharashtra,Kolhapur,5,0.00%,2023-09-18,2025-08-05
+India,Goa,Saligao,5,0.00%,2024-01-16,2024-01-16
+India,West Bengal,Shiliguri,5,0.00%,2024-03-03,2024-06-09
+Malaysia,Negeri Sembilan,Port Dickson,5,0.00%,2024-03-29,2024-03-29
+Japan,Miyazaki,Nichinan,5,0.00%,2024-03-29,2024-03-29
+Japan,Ibaraki,Itako,5,0.00%,2024-03-29,2024-03-29
+Japan,Shizuoka,Mishima,5,0.00%,2024-04-01,2024-04-01
+India,Kashmir,Anantnag,5,0.00%,2024-05-09,2024-05-09
+India,Kashmir,Bijbiara,5,0.00%,2024-05-09,2024-05-09
+India,Himachal Pradesh,Nagar,5,0.00%,2024-05-16,2024-05-19
+South Africa,Mpumalanga,Lydenburg,5,0.00%,2024-05-24,2024-05-24
+Ethiopia,Oromiya,Sendafa,5,0.00%,2024-05-30,2024-05-30
+Brazil,Rio de Janeiro,Duque de Caxias,5,0.00%,2024-09-12,2024-09-12
+Cuba,La Habana,San Miguel del Padron,5,0.00%,2024-10-29,2024-10-29
+Dominican Republic,San Cristobal,Sabana Grande de Palenque,5,0.00%,2024-11-04,2024-11-04
+Colombia,Bolivar,Turbana,5,0.00%,2024-11-06,2024-11-06
+Argentina,Buenos Aires,Santa Catalina - Dique Lujan,5,0.00%,2024-11-22,2024-11-22
+Turkey,Istanbul,Umraniye,5,0.00%,2024-11-25,2024-11-25
+India,Assam,Badarpur,5,0.00%,2025-03-15,2025-03-15
+Malta,Il-Belt Valletta,Valletta,5,0.00%,2025-05-23,2025-05-23
+Spain,Catalonia,Gracia,5,0.00%,2025-05-25,2025-05-25
+India,Uttarakhand,Raiwala,5,0.00%,2025-06-07,2025-06-07
+Sweden,Vaestmanland,Arboga,4,0.00%,2019-07-10,2019-07-10
+Sweden,Stockholm,OEstermalm,4,0.00%,2019-07-11,2019-07-11
+Germany,Schleswig-Holstein,Grossenbrode,4,0.00%,2019-07-15,2019-07-15
+Germany,Lower Saxony,Bergen,4,0.00%,2019-07-17,2019-07-17
+Austria,Lower Austria,Rauchenwarth,4,0.00%,2019-07-24,2019-07-24
+Czechia,South Moravian,Breclav,4,0.00%,2019-07-28,2019-07-28
+Sri Lanka,Western,Wattala,4,0.00%,2020-03-04,2020-03-04
+India,Goa,Cuncolim,4,0.00%,2023-03-19,2023-03-19
+India,Goa,Raia,4,0.00%,2023-03-19,2023-03-19
+India,Telangana,Mirialguda,4,0.00%,2023-04-15,2023-04-15
+India,Andhra Pradesh,Rajampet,4,0.00%,2023-07-01,2025-06-22
+India,Pondicherry,Karaikal,4,0.00%,2023-07-16,2023-07-16
+India,Karnataka,Mudigere,4,0.00%,2023-08-02,2023-08-04
+India,Uttar Pradesh,Najibabad,4,0.00%,2024-01-23,2024-01-23
+Japan,Hiroshima,Hatsukaichi,4,0.00%,2024-04-01,2024-04-01
+India,Kashmir,Soyibug,4,0.00%,2024-05-05,2024-05-05
+India,Haryana,Thanesar,4,0.00%,2024-05-13,2024-05-13
+India,Haryana,Ambala,4,0.00%,2024-05-13,2024-05-13
+India,Himachal Pradesh,Mandi,4,0.00%,2024-05-16,2024-05-16
+India,Himachal Pradesh,Kulu,4,0.00%,2024-05-19,2024-05-19
+South Africa,Western Cape,Lansdowne,4,0.00%,2024-05-29,2024-05-29
+India,Uttar Pradesh,Jhansi,4,0.00%,2024-07-17,2024-07-17
+Peru,Lima,Cieneguilla,4,0.00%,2024-09-16,2024-09-16
+Argentina,Buenos Aires F.D.,Colegiales,4,0.00%,2024-09-24,2024-09-24
+Colombia,Cundinamarca,San Antonio del Tequendama,4,0.00%,2024-09-30,2024-09-30
+Panama,Panama,San Miguelito,4,0.00%,2024-10-11,2024-10-13
+El Salvador,Ahuachapan,Atiquizaya,4,0.00%,2024-10-18,2024-10-18
+Mexico,Mexico City,Venustiano Carranza,4,0.00%,2024-10-22,2024-10-22
+Cuba,La Habana,Havana,4,0.00%,2024-10-29,2024-10-29
+Bahamas,North Andros,Andros Town,4,0.00%,2024-10-29,2024-10-29
+Colombia,Bolivar,Santa Catalina,4,0.00%,2024-11-04,2024-11-04
+Argentina,Cordoba,Villa Allende,4,0.00%,2024-11-21,2024-11-22
+Greece,Attica,Vyronas,4,0.00%,2024-11-27,2024-11-27
+India,Assam,Rangapara,4,0.00%,2025-03-25,2025-03-25
+Iceland,Capital Region,Mosfellsbaer,4,0.00%,2025-05-20,2025-05-20
+Belgium,Wallonia,Ohey,4,0.00%,2025-05-22,2025-05-22
+Spain,Catalonia,Vilobi d'Onyar,4,0.00%,2025-05-24,2025-05-24
+Portugal,Porto,Guifoes,4,0.00%,2025-05-27,2025-05-27
+India,Maharashtra,Uran,4,0.00%,2025-07-02,2025-07-02
+India,Kashmir,Ramban,4,0.00%,2025-07-23,2025-07-23
+India,Goa,Pernem,4,0.00%,2025-12-10,2025-12-10
+Finland,Uusimaa,Tuusula,3,0.00%,2019-07-07,2019-07-07
+Germany,Hamburg,St. Pauli,3,0.00%,2019-07-16,2019-07-16
+Germany,Berlin,Gesundbrunnen,3,0.00%,2019-07-20,2019-07-20
+Germany,Berlin,Mitte,3,0.00%,2019-07-20,2019-07-20
+France,Ile-de-France,Chatou,3,0.00%,2019-08-12,2019-08-12
+Vietnam,Ha Noi,Trau Quy,3,0.00%,2022-12-12,2022-12-12
+India,Karnataka,Hoskote,3,0.00%,2022-12-17,2022-12-17
+India,Karnataka,Gulbarga,3,0.00%,2023-01-22,2023-01-22
+India,Karnataka,Kalghatgi,3,0.00%,2023-03-19,2023-03-19
+India,Goa,Bambolim,3,0.00%,2023-03-19,2023-03-19
+India,Telangana,Patancheru,3,0.00%,2023-06-01,2023-06-01
+India,Karnataka,Pangala,3,0.00%,2023-08-05,2023-08-05
+India,Tamil Nadu,Alandur,3,0.00%,2023-11-28,2023-11-29
+Japan,Hiroshima,Takehara,3,0.00%,2024-04-02,2024-04-02
+Pakistan,Balochistan,Gwadar,3,0.00%,2024-04-08,2024-04-08
+Jordan,Amman,Jawa,3,0.00%,2024-04-20,2024-04-20
+India,Madhya Pradesh,Bhainsdehi,3,0.00%,2024-05-05,2024-05-05
+India,Himachal Pradesh,Bilaspur,3,0.00%,2024-05-16,2024-05-16
+Eswatini,Hhohho,Ntfonjeni,3,0.00%,2024-05-24,2024-05-24
+India,West Bengal,Kalimpang,3,0.00%,2024-06-19,2024-06-19
+India,Uttar Pradesh,Kakori,3,0.00%,2024-08-03,2024-08-03
+Paraguay,Alto Paraguay,Capitan Pablo Lagerenza,3,0.00%,2024-09-15,2024-09-15
+Argentina,Buenos Aires F.D.,Villa Lugano,3,0.00%,2024-09-25,2024-11-18
+Argentina,Buenos Aires,San Justo,3,0.00%,2024-09-27,2024-09-27
+Bolivia,Oruro,Poopo,3,0.00%,2024-09-27,2024-09-27
+Colombia,Caldas,Marulanda,3,0.00%,2024-09-30,2024-09-30
+Colombia,Caldas,Salamina,3,0.00%,2024-09-30,2024-09-30
+Colombia,Caldas,Pacora,3,0.00%,2024-09-30,2024-09-30
+Panama,Colon,Puerto Escondido,3,0.00%,2024-10-08,2024-10-08
+Cuba,La Habana,Diez de Octubre,3,0.00%,2024-10-29,2024-10-29
+Cuba,Matanzas,Varadero,3,0.00%,2024-10-29,2024-10-29
+Jamaica,Saint Catherine,Ewarton,3,0.00%,2024-11-01,2024-11-01
+Colombia,Valle del Cauca,Candelaria,3,0.00%,2024-11-06,2024-11-06
+Colombia,Atlantico,Malambo,3,0.00%,2024-11-09,2024-11-10
+Colombia,Cundinamarca,Sasaima,3,0.00%,2024-11-13,2024-11-13
+Iraq,Wasit,As Suwayrah,3,0.00%,2024-11-25,2024-11-25
+Turkey,Istanbul,Sultanbeyli,3,0.00%,2024-11-25,2024-11-25
+India,Assam,Palasbari,3,0.00%,2025-03-30,2025-03-30
+India,Gujarat,Naroda,3,0.00%,2025-04-28,2025-04-28
+Italy,Piedmont,Trecate,3,0.00%,2025-05-22,2025-05-22
+Spain,Madrid,Retiro,3,0.00%,2025-05-30,2025-05-30
+India,Jharkhand,Jumri Tilaiya,3,0.00%,2025-06-17,2025-06-17
+India,Maharashtra,Hinganghat,3,0.00%,2025-06-26,2025-06-26
+India,Madhya Pradesh,Satna,3,0.00%,2025-06-27,2025-06-27
+India,Uttar Pradesh,Handia,3,0.00%,2025-06-27,2025-06-27
+India,Uttar Pradesh,Jaunpur,3,0.00%,2025-06-28,2025-06-28
+India,Madhya Pradesh,Sanchi,3,0.00%,2025-06-29,2025-06-29
+India,Maharashtra,Junnar,3,0.00%,2025-07-01,2025-07-01
+India,Uttar Pradesh,Ghaziabad,3,0.00%,2026-02-20,2026-02-20
+India,Andhra Pradesh,Guntakal,3,0.00%,2026-02-24,2026-02-24
+India,Karnataka,Hospet,3,0.00%,2026-05-16,2026-05-16
+India,Andhra Pradesh,Gajuwaka,2,0.00%,2016-10-01,2016-10-01
+Thailand,Samut Prakan,Bang Sao Thong,2,0.00%,2018-07-29,2018-07-29
+Sweden,OErebro,Vintrosa,2,0.00%,2019-07-10,2019-07-10
+Sweden,Skane,Malmoe,2,0.00%,2019-07-13,2019-07-13
+Germany,Schleswig-Holstein,Lensahn,2,0.00%,2019-07-15,2019-07-15
+Germany,Saxony-Anhalt,Tucheim,2,0.00%,2019-07-19,2019-07-19
+Germany,Berlin,Charlottenburg-Nord,2,0.00%,2019-07-20,2019-07-20
+Poland,Greater Poland Voivodeship,Kolaczkowo,2,0.00%,2019-07-21,2019-07-21
+Poland,Masovian Voivodeship,Praga Polnoc,2,0.00%,2019-07-22,2019-07-22
+Poland,Masovian Voivodeship,Bemowo,2,0.00%,2019-07-22,2019-07-22
+India,Andhra Pradesh,Pithapuram,2,0.00%,2020-10-23,2020-10-23
+India,Telangana,Nizamabad,2,0.00%,2020-11-21,2020-11-21
+India,Odisha,Jatani,2,0.00%,2022-02-19,2022-02-19
+Vietnam,Quang Ninh,Quang Yen,2,0.00%,2022-12-12,2022-12-12
+Vietnam,Hung Yen,Van Giang,2,0.00%,2022-12-12,2022-12-12
+India,Goa,Vasco Da Gama,2,0.00%,2023-01-19,2023-01-19
+India,Goa,Cortalim,2,0.00%,2023-03-19,2023-03-19
+India,Telangana,Nagar Karnul,2,0.00%,2023-04-30,2023-04-30
+India,Tamil Nadu,Erumaippatti,2,0.00%,2023-07-13,2023-07-13
+India,Tamil Nadu,Namakkal,2,0.00%,2023-07-13,2023-07-13
+India,Tamil Nadu,Srivaikuntam,2,0.00%,2023-07-21,2023-07-21
+India,Tamil Nadu,Kuzhithurai,2,0.00%,2023-07-22,2023-07-22
+India,Tamil Nadu,Bodinayakkanur,2,0.00%,2023-07-25,2023-07-25
+India,Kerala,Kodungallur,2,0.00%,2023-07-27,2023-07-27
+India,Karnataka,Hassan,2,0.00%,2023-08-01,2023-08-01
+Sri Lanka,North Central,Anuradhapura,2,0.00%,2023-10-01,2023-10-01
+Georgia,,Didi Lilo,2,0.00%,2024-02-03,2024-02-03
+India,Himachal Pradesh,Yol,2,0.00%,2024-02-14,2024-02-14
+Japan,Ibaraki,Edosaki,2,0.00%,2024-03-29,2024-03-29
+Japan,Aichi,Sobue,2,0.00%,2024-04-01,2024-04-01
+Japan,Hiroshima,Fukuyama,2,0.00%,2024-04-02,2024-04-02
+Egypt,Al Buhayrah,Beheira,2,0.00%,2024-04-16,2024-04-16
+India,Punjab,Patti,2,0.00%,2024-05-05,2024-05-05
+South Africa,Gauteng,Springs,2,0.00%,2024-05-22,2024-05-22
+Nepal,Central Region,Kirtipur,2,0.00%,2024-06-03,2024-06-03
+Nepal,Western Region,Lamjung,2,0.00%,2024-06-05,2024-06-05
+India,Sikkim,Rangpo,2,0.00%,2024-06-09,2024-06-09
+India,Uttar Pradesh,Nawabganj,2,0.00%,2024-08-03,2024-08-03
+India,Uttar Pradesh,Mohan,2,0.00%,2024-08-03,2024-08-03
+Brazil,Amazonas,Careiro da Varzea,2,0.00%,2024-09-09,2024-09-09
+Bolivia,Santa Cruz,La Belgica,2,0.00%,2024-09-15,2024-09-15
+Peru,Cusco,Zurite,2,0.00%,2024-09-16,2024-09-16
+Peru,Lima,Santa Rosa,2,0.00%,2024-09-18,2024-09-18
+Argentina,Buenos Aires,Mercedes,2,0.00%,2024-09-18,2024-09-18
+Colombia,Cundinamarca,Cota,2,0.00%,2024-09-28,2024-09-28
+Colombia,Caldas,Aguadas,2,0.00%,2024-09-30,2024-09-30
+Colombia,Antioquia,Abejorral,2,0.00%,2024-09-30,2024-09-30
+Colombia,Antioquia,Sabaneta,2,0.00%,2024-10-01,2024-10-01
+Costa Rica,Heredia,San Francisco,2,0.00%,2024-10-08,2024-10-08
+Costa Rica,Limon,Matina,2,0.00%,2024-10-08,2024-10-08
+Panama,Panama,Potrero Grande,2,0.00%,2024-10-08,2024-10-08
+Guatemala,Sacatepequez,San Lucas Sacatepequez,2,0.00%,2024-10-17,2024-10-17
+El Salvador,Sonsonate,Armenia,2,0.00%,2024-10-18,2024-10-18
+El Salvador,San Salvador,San Marcos,2,0.00%,2024-10-18,2024-10-18
+Dominican Republic,Santo Domingo,Guerra,2,0.00%,2024-10-26,2024-10-26
+Cuba,La Habana,Arroyo Naranjo,2,0.00%,2024-10-29,2024-10-29
+Colombia,Antioquia,La Union,2,0.00%,2024-11-13,2024-11-13
+Colombia,Cundinamarca,Guaduas,2,0.00%,2024-11-13,2024-11-13
+Colombia,Cundinamarca,Alban,2,0.00%,2024-11-13,2024-11-13
+Argentina,Buenos Aires F.D.,Villa Santa Rita,2,0.00%,2024-11-18,2024-11-18
+Argentina,Buenos Aires,Quilmes,2,0.00%,2024-11-23,2024-11-23
+Turkey,Ankara,Kazan,2,0.00%,2024-11-25,2024-11-25
+Turkey,Antalya,Aksu,2,0.00%,2024-11-25,2024-11-25
+India,Goa,Kankon,2,0.00%,2025-02-06,2025-02-06
+India,Nagaland,Dimapur,2,0.00%,2025-03-23,2025-03-23
+India,Assam,Dergaon,2,0.00%,2025-03-24,2025-03-24
+India,West Bengal,Baranagar,2,0.00%,2025-04-18,2025-04-18
+India,West Bengal,Gopalpur,2,0.00%,2025-04-19,2025-04-19
+India,Gujarat,Than,2,0.00%,2025-04-27,2025-04-27
+Italy,Lombardy,Cambiago,2,0.00%,2025-05-18,2025-05-18
+Italy,Lombardy,Casorate Sempione,2,0.00%,2025-05-20,2025-05-20
+Iceland,Capital Region,Alftanes,2,0.00%,2025-05-20,2025-05-20
+Iceland,Capital Region,Hafnarfjoerdur,2,0.00%,2025-05-20,2025-05-20
+Belgium,Wallonia,Havelange,2,0.00%,2025-05-22,2025-05-22
+Malta,Il-Gzira,Gzira,2,0.00%,2025-05-23,2025-05-23
+Malta,Ghajnsielem,Mgarr,2,0.00%,2025-05-23,2025-05-23
+Spain,Catalonia,Barcelona,2,0.00%,2025-05-25,2025-05-25
+Spain,Catalonia,les Corts,2,0.00%,2025-05-25,2025-05-25
+Portugal,Porto,Senhora da Hora,2,0.00%,2025-05-27,2025-05-27
+Portugal,Porto,Santa Cruz do Bispo,2,0.00%,2025-05-27,2025-05-27
+Spain,Madrid,San Blas,2,0.00%,2025-05-30,2025-05-30
+India,Uttarakhand,Srinagar,2,0.00%,2025-06-14,2025-06-14
+India,Kashmir,Samba,2,0.00%,2025-06-15,2025-06-15
+India,Maharashtra,Rajura,2,0.00%,2025-06-26,2025-06-26
+India,Madhya Pradesh,Jabalpur,2,0.00%,2025-06-27,2025-06-27
+India,Madhya Pradesh,Sihora,2,0.00%,2025-06-27,2025-06-27
+India,Maharashtra,Lohogaon,2,0.00%,2025-06-30,2025-06-30
+India,Maharashtra,Murgud,2,0.00%,2025-08-05,2025-08-05
+India,Andhra Pradesh,Dharmavaram,2,0.00%,2026-02-26,2026-02-26
+India,Maharashtra,Powai,1,0.00%,2015-12-11,2015-12-11
+Indonesia,Bali,Jabajero,1,0.00%,2017-02-06,2017-02-06
+India,Goa,Curti,1,0.00%,2019-03-11,2019-03-11
+Estonia,Harju,Tabasalu,1,0.00%,2019-07-04,2019-07-04
+Estonia,Harju,Viimsi,1,0.00%,2019-07-04,2019-07-04
+Finland,Varsinais-Suomi,Halikko,1,0.00%,2019-07-07,2019-07-07
+Germany,Schleswig-Holstein,Damlos,1,0.00%,2019-07-15,2019-07-15
+Germany,Hamburg,Altstadt,1,0.00%,2019-07-16,2019-07-16
+Germany,Brandenburg,Langewahl,1,0.00%,2019-07-21,2019-07-21
+Germany,Brandenburg,Briesen,1,0.00%,2019-07-21,2019-07-21
+Austria,Lower Austria,Schwechat,1,0.00%,2019-07-24,2019-07-24
+Czechia,Praha,Karlin,1,0.00%,2019-07-30,2019-07-30
+Switzerland,Saint Gallen,Au,1,0.00%,2019-07-31,2019-07-31
+Netherlands,North Holland,Duivendrecht,1,0.00%,2019-08-06,2019-08-06
+France,Ile-de-France,Malakoff,1,0.00%,2019-08-10,2019-08-10
+India,Telangana,Ghatkesar,1,0.00%,2020-10-21,2020-10-21
+India,Telangana,Chandur,1,0.00%,2021-10-03,2021-10-03
+India,Tamil Nadu,Arcot,1,0.00%,2021-12-03,2021-12-03
+Thailand,Chachoengsao,Bang Pakong,1,0.00%,2022-05-19,2022-05-19
+India,Telangana,Vikarabad,1,0.00%,2023-01-22,2023-01-22
+India,Karnataka,Chitapur,1,0.00%,2023-04-16,2023-04-16
+India,Andhra Pradesh,Ramapuram,1,0.00%,2023-07-10,2023-07-10
+India,Tamil Nadu,Chinna Salem,1,0.00%,2023-07-12,2023-07-12
+India,Tamil Nadu,Vallam,1,0.00%,2023-07-14,2023-07-14
+India,Tamil Nadu,Nambutalai,1,0.00%,2023-07-19,2023-07-19
+India,Tamil Nadu,Arumuganeri,1,0.00%,2023-07-21,2023-07-21
+India,Tamil Nadu,Cumbum,1,0.00%,2023-07-25,2023-07-25
+India,Kerala,Arukutti,1,0.00%,2023-07-26,2023-07-26
+India,Kerala,Chelakara,1,0.00%,2023-07-27,2023-07-27
+India,Tamil Nadu,Mettur,1,0.00%,2023-07-29,2023-07-29
+India,Karnataka,Kushalnagar,1,0.00%,2023-08-01,2023-08-01
+India,Karnataka,Malpe,1,0.00%,2023-08-05,2023-08-05
+India,Karnataka,Kumta,1,0.00%,2023-08-06,2023-08-06
+India,Andhra Pradesh,Singarayakonda,1,0.00%,2023-12-17,2023-12-17
+India,Andhra Pradesh,Ongole,1,0.00%,2023-12-18,2023-12-18
+India,Uttarakhand,Sultanpur,1,0.00%,2024-01-23,2024-01-23
+India,Maharashtra,Digras,1,0.00%,2024-01-30,2024-01-30
+India,Himachal Pradesh,Daulatpur,1,0.00%,2024-02-14,2024-02-14
+Malaysia,Putrajaya,Putrajaya,1,0.00%,2024-03-29,2024-03-29
+Japan,Chiba,Narita,1,0.00%,2024-03-29,2024-03-29
+Japan,Aichi,Inazawa,1,0.00%,2024-04-01,2024-04-01
+Egypt,Muhafazat Shamal Sina',Bi'r al `Abd,1,0.00%,2024-04-18,2024-04-18
+Jordan,Tafielah,Busayra,1,0.00%,2024-04-19,2024-04-19
+Jordan,Amman,Al Bunayyat ash Shamaliyah,1,0.00%,2024-04-20,2024-04-20
+Jordan,Amman,Wadi as Sir,1,0.00%,2024-04-21,2024-04-21
+India,Punjab,Sultanpur Lodhi,1,0.00%,2024-05-05,2024-05-05
+India,Punjab,Jandiala Guru,1,0.00%,2024-05-05,2024-05-05
+India,Kashmir,Shupiyan,1,0.00%,2024-05-05,2024-05-05
+India,Haryana,Karnal,1,0.00%,2024-05-13,2024-05-13
+South Africa,Gauteng,Benoni,1,0.00%,2024-05-22,2024-05-22
+South Africa,Mpumalanga,Hendrina,1,0.00%,2024-05-22,2024-05-22
+South Africa,Western Cape,Knysna,1,0.00%,2024-05-25,2024-05-25
+South Africa,Western Cape,Swellendam,1,0.00%,2024-05-27,2024-05-27
+Nepal,Central Region,Banepa,1,0.00%,2024-06-08,2024-06-08
+Nepal,Central Region,Nagarkot,1,0.00%,2024-06-09,2024-06-09
+Nepal,,Kodari,1,0.00%,2024-06-09,2024-06-09
+Nepal,Eastern Region,Bhojpur,1,0.00%,2024-06-09,2024-06-09
+India,Madhya Pradesh,Harpalpur,1,0.00%,2024-07-20,2024-07-20
+Brazil,Rio de Janeiro,Mendes,1,0.00%,2024-09-06,2024-09-06
+Brazil,Sao Paulo,Jarinu,1,0.00%,2024-09-06,2024-09-06
+Brazil,Sao Paulo,Santo Andre,1,0.00%,2024-09-06,2024-09-06
+Brazil,Sao Paulo,Sao Bernardo do Campo,1,0.00%,2024-09-06,2024-09-06
+Brazil,Amazonas,Nova Olinda do Norte,1,0.00%,2024-09-09,2024-09-09
+Brazil,Amazonas,Borba,1,0.00%,2024-09-09,2024-09-09
+Brazil,Sao Paulo,Itaquaquecetuba,1,0.00%,2024-09-14,2024-09-14
+Brazil,Sao Paulo,Aruja,1,0.00%,2024-09-14,2024-09-14
+Brazil,Sao Paulo,Suzano,1,0.00%,2024-09-14,2024-09-14
+Brazil,Sao Paulo,Poa,1,0.00%,2024-09-14,2024-09-14
+Argentina,Buenos Aires,Chivilcoy,1,0.00%,2024-09-18,2024-09-18
+Argentina,Buenos Aires,Chacabuco,1,0.00%,2024-09-18,2024-09-18
+Argentina,Buenos Aires,Lobos,1,0.00%,2024-09-18,2024-09-18
+Argentina,Buenos Aires,Pontevedra,1,0.00%,2024-09-27,2024-09-27
+Argentina,Santa Fe,Arroyo Seco,1,0.00%,2024-09-27,2024-09-27
+Bolivia,Santa Cruz,Villa Yapacani,1,0.00%,2024-09-27,2024-09-27
+Colombia,Cundinamarca,Soacha,1,0.00%,2024-09-30,2024-09-30
+Colombia,Tolima,Ambalema,1,0.00%,2024-09-30,2024-09-30
+Costa Rica,Heredia,San Antonio,1,0.00%,2024-10-04,2024-10-04
+Costa Rica,Heredia,La Asuncion,1,0.00%,2024-10-08,2024-10-08
+Costa Rica,Cartago,San Diego,1,0.00%,2024-10-08,2024-10-08
+Costa Rica,Cartago,Tucurrique,1,0.00%,2024-10-08,2024-10-08
+Costa Rica,Limon,Limon,1,0.00%,2024-10-08,2024-10-08
+Costa Rica,San Jose,San Juan,1,0.00%,2024-10-15,2024-10-15
+Cuba,Ciego de Avila,Moron,1,0.00%,2024-11-01,2024-11-01
+Jamaica,Saint Mary,Gayle,1,0.00%,2024-11-01,2024-11-01
+Jamaica,Saint Catherine,Linstead,1,0.00%,2024-11-01,2024-11-01
+Jamaica,Saint Catherine,Bog Walk,1,0.00%,2024-11-01,2024-11-01
+Colombia,Choco,Pie de Pato,1,0.00%,2024-11-06,2024-11-06
+Colombia,Antioquia,Narino,1,0.00%,2024-11-13,2024-11-13
+Colombia,Cundinamarca,Facatativa,1,0.00%,2024-11-13,2024-11-13
+Malaysia,Johor,Kampung Pasir Gudang Baru,1,0.00%,2025-01-21,2025-01-21
+India,Assam,Numaligarh,1,0.00%,2025-03-21,2025-03-21
+India,Assam,Mangaldai,1,0.00%,2025-03-29,2025-03-29
+India,Gujarat,Khambhaliya,1,0.00%,2025-04-27,2025-04-27
+Albania,Tirane,Petrele,1,0.00%,2025-05-17,2025-05-17
+Romania,Cluj,Dezmir,1,0.00%,2025-05-18,2025-05-18
+Italy,Lombardy,Fagnano Olona-Bergoro,1,0.00%,2025-05-22,2025-05-22
+Italy,Piedmont,Rivara,1,0.00%,2025-05-30,2025-05-30
+India,Uttarakhand,Devaprayag,1,0.00%,2025-06-14,2025-06-14
+India,Madhya Pradesh,Garhakota,1,0.00%,2025-06-29,2025-06-29
+India,Madhya Pradesh,Bhikangaon,1,0.00%,2025-06-30,2025-06-30
+India,Maharashtra,Murbad,1,0.00%,2025-07-01,2025-07-01
+Nepal,Central Region,Birganj,1,0.00%,2025-07-10,2025-07-10
+India,Andhra Pradesh,Tadepallegudem,1,0.00%,2026-02-14,2026-02-14
+India,Andhra Pradesh,Yanamalakuduru,1,0.00%,2026-04-15,2026-04-15
